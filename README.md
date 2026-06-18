@@ -33,7 +33,8 @@ This project is provided for learning and educational purposes.
 ---
 
 ## User
--Admin
+- Admin
+
 username : admin
 password : admin123
 
