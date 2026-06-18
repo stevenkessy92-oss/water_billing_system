@@ -32,4 +32,9 @@ This project is provided for learning and educational purposes.
 
 ---
 
+## User
+-Admin
+username : admin
+password : admin123
+
 © 2026 Steven Kessy. All Rights Reserved.
